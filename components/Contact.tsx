@@ -39,7 +39,7 @@ const Contact = () => {
           <h3 className="text-3xl font-serif text-brand-red mb-6">{t.contact.info}</h3>
           <div className="space-y-4">
             <ContactInfoItem icon={<MapPinIcon />} text={t.contact.address} href="https://www.google.com/maps/place/Restoran+kod+Poticajka/@44.5562287,16.3702362,17z/data=!4m6!3m5!1s0x4760f00913eb70fd:0xba93b7f9654964c2!8m2!3d44.5546154!4d16.3695474!16s%2Fg%2F11hbkklk6b?entry=ttu&g_ep=EgoyMDI1MDczMC4wIKXMDSoASAFQAw%3D%3D" />
-            <ContactInfoItem icon={<PhoneIcon />} text={t.contact.phone} href="tel:+38761123456" />
+            <ContactInfoItem icon={<PhoneIcon />} text={t.contact.phone} href="tel:+38763835761" />
             <ContactInfoItem icon={<ClockIcon />} text={t.contact.hours} />
           </div>
           <div className="mt-8">
