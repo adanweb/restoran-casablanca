@@ -413,7 +413,7 @@ export const translations: Record<LanguageCode, TranslationContent> = {
       { name: 'Vinjak Rubin 0.03L', price: '1.50 KM' },
       { name: 'Jagermeister 0.03L', price: '2.50 KM' },
       { name: 'Domaća šljiva 0.03L', price: '1.50 KM' },
-      { name: 'Domaća viljamovka 0.03L', price: '2.00 KM' },
+      { name: 'Domaća viljamovka 0.03L', price: '2.50 KM' },
       { name: 'Whiskey 0.03L', price: '3.00 KM' }
     ]
   },
@@ -793,7 +793,7 @@ export const translations: Record<LanguageCode, TranslationContent> = {
       { name: 'Rubin Brandy 0.03L', price: '1.50 KM' },
       { name: 'Jägermeister 0.03L', price: '2.50 KM' },
       { name: 'Homemade Plum Brandy 0.03L', price: '1.50 KM' },
-      { name: 'Homemade Williams Pear Brandy 0.03L', price: '2.00 KM' },
+      { name: 'Homemade Williams Pear Brandy 0.03L', price: '2.50 KM' },
       { name: 'Whiskey 0.03L', price: '3.00 KM' }
     ]
   },
@@ -1173,7 +1173,7 @@ export const translations: Record<LanguageCode, TranslationContent> = {
       { name: 'Rubin Brandy 0,03L', price: '1.50 KM' },
       { name: 'Jägermeister 0,03L', price: '2.50 KM' },
       { name: 'Hausgemachter Pflaumenschnaps 0,03L', price: '1.50 KM' },
-      { name: 'Hausgemachter Williams 0,03L', price: '2.00 KM' },
+      { name: 'Hausgemachter Williams 0,03L', price: '2.50 KM' },
       { name: 'Whiskey 0,03L', price: '3.00 KM' }
     ]
   },
@@ -1553,7 +1553,7 @@ export const translations: Record<LanguageCode, TranslationContent> = {
       { name: 'روبين براندي 0.03 لتر', price: '1.50 KM' },
       { name: 'ياغرمايستر 0.03 لتر', price: '2.50 KM' },
       { name: 'راكيه منزلي - برقوق 0.03 لتر', price: '1.50 KM' },
-      { name: 'راكيه منزلي - كمثرى 0.03 لتر', price: '2.00 KM' },
+      { name: 'راكيه منزلي - كمثرى 0.03 لتر', price: '2.50 KM' },
       { name: 'ويسكي 0.03 لتر', price: '3.00 KM' }
     ]
   },
