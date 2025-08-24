@@ -392,7 +392,7 @@ export const translations: Record<LanguageCode, TranslationContent> = {
     name: 'Pivo',
     isDrinkCategory: true,
     items: [
-      { name: 'Pivo 0.5L', price: '3.50 KM' },
+      { name: 'Pivo 0.5L', price: '3.00 KM' },
       { name: 'Karlovačko 0.33L', price: '3.00 KM' },
       { name: 'Bavaria 0.33L', price: '3.00 KM' },
       { name: 'Heineken 0.33L', price: '3.50 KM' },
@@ -772,7 +772,7 @@ export const translations: Record<LanguageCode, TranslationContent> = {
     name: 'Beer',
     isDrinkCategory: true,
     items: [
-      { name: 'Draft Beer 0.5L', price: '3.50 KM' },
+      { name: 'Draft Beer 0.5L', price: '3.00 KM' },
       { name: 'Karlovačko 0.33L', price: '3.00 KM' },
       { name: 'Bavaria 0.33L', price: '3.00 KM' },
       { name: 'Heineken 0.33L', price: '3.50 KM' },
@@ -1152,7 +1152,7 @@ export const translations: Record<LanguageCode, TranslationContent> = {
     name: 'Bier',
     isDrinkCategory: true,
     items: [
-      { name: 'Bier vom Fass 0,5L', price: '3.50 KM' },
+      { name: 'Bier vom Fass 0,5L', price: '3.00 KM' },
       { name: 'Karlovačko 0,33L', price: '3.00 KM' },
       { name: 'Bavaria 0,33L', price: '3.00 KM' },
       { name: 'Heineken 0,33L', price: '3.50 KM' },
@@ -1532,7 +1532,7 @@ export const translations: Record<LanguageCode, TranslationContent> = {
     name: 'البيرة',
     isDrinkCategory: true,
     items: [
-      { name: 'بيرة من البرميل 0.5 لتر', price: '3.50 KM' },
+      { name: 'بيرة من البرميل 0.5 لتر', price: '3.00 KM' },
       { name: 'كارلوفاتشكو 0.33 لتر', price: '3.00 KM' },
       { name: 'بافاريا 0.33 لتر', price: '3.00 KM' },
       { name: 'هاينكن 0.33 لتر', price: '3.50 KM' },
