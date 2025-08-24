@@ -117,7 +117,7 @@ export const translations: Record<LanguageCode, TranslationContent> = {
       {
         name: 'Hladna plata',
         description: 'Šunka, sir, kulen, uštipci',
-        price: '30 KM'
+        price: '40 KM'
       }
     ]
   },
