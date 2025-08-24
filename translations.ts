@@ -377,7 +377,7 @@ export const translations: Record<LanguageCode, TranslationContent> = {
     items: [
       { name: 'Kiseljak (gazirana voda) 1L', price: '5.00 KM' },
       { name: 'Voda Jana (negazirana) 0.25L', price: '1.50 KM' },
-      { name: 'Kiseljak (gazirana voda) 0.25L', price: '1.50 KM' },
+      { name: 'Kiseljak (gazirana voda) 0.25L', price: '2.00 KM' },
       { name: 'Voda Vitinka Exotic 0.25L', price: '2.00 KM' },
       { name: 'Cedevita', price: '2.00 KM' },
       { name: 'Cijeđena narandža', price: '4.00 KM' },
@@ -756,8 +756,8 @@ export const translations: Record<LanguageCode, TranslationContent> = {
     isDrinkCategory: true,
     items: [
       { name: 'Kiseljak (sparkling water) 1L', price: '5.00 KM' },
-      { name: 'Jana Water (still) 0.25L', price: '1.50 KM' },
-      { name: 'Kiseljak (sparkling) 0.25L', price: '1.50 KM' },
+      { name: 'Jana Water (still) 0.25L', price: '2.00 KM' },
+      { name: 'Kiseljak (sparkling) 0.25L', price: '2.00 KM' },
       { name: 'Vitinka Exotic Water 0.25L', price: '2.00 KM' },
       { name: 'Cedevita', price: '2.00 KM' },
       { name: 'Fresh Orange Juice', price: '4.00 KM' },
@@ -1137,7 +1137,7 @@ export const translations: Record<LanguageCode, TranslationContent> = {
     items: [
       { name: 'Kiseljak (Sprudelwasser) 1L', price: '5.00 KM' },
       { name: 'Jana Wasser (still) 0,25L', price: '1.50 KM' },
-      { name: 'Kiseljak (Sprudelwasser) 0,25L', price: '1.50 KM' },
+      { name: 'Kiseljak (Sprudelwasser) 0,25L', price: '2.00 KM' },
       { name: 'Vitinka Exotic Wasser 0,25L', price: '2.00 KM' },
       { name: 'Cedevita', price: '2.00 KM' },
       { name: 'Frisch gepresster Orangensaft', price: '4.00 KM' },
@@ -1517,7 +1517,7 @@ export const translations: Record<LanguageCode, TranslationContent> = {
     items: [
       { name: 'ماء غازي كيسيلجاك 1 لتر', price: '5.00 KM' },
       { name: 'ماء جانا (بدون غاز) 0.25 لتر', price: '1.50 KM' },
-      { name: 'ماء غازي كيسيلجاك 0.25 لتر', price: '1.50 KM' },
+      { name: 'ماء غازي كيسيلجاك 0.25 لتر', price: '2.00 KM' },
       { name: 'ماء فيتينكا إكزوتيك 0.25 لتر', price: '2.00 KM' },
       { name: 'سيديفيتا', price: '2.00 KM' },
       { name: 'عصير برتقال طبيعي', price: '4.00 KM' },
