@@ -395,7 +395,7 @@ export const translations: Record<LanguageCode, TranslationContent> = {
       { name: 'Pivo 0.5L', price: '3.00 KM' },
       { name: 'Karlovačko 0.33L', price: '3.00 KM' },
       { name: 'Bavaria 0.33L', price: '3.00 KM' },
-      { name: 'Heineken 0.33L', price: '3.50 KM' },
+      { name: 'Heineken 0.33L', price: '4.00 KM' },
       { name: 'Ožujsko 0.33L', price: '3.00 KM' },
       { name: 'Staropramen 0.33L', price: '3.00 KM' },
       { name: 'Bavaria bez alk. 0.33L', price: '3.00 KM' }
@@ -775,7 +775,7 @@ export const translations: Record<LanguageCode, TranslationContent> = {
       { name: 'Draft Beer 0.5L', price: '3.00 KM' },
       { name: 'Karlovačko 0.33L', price: '3.00 KM' },
       { name: 'Bavaria 0.33L', price: '3.00 KM' },
-      { name: 'Heineken 0.33L', price: '3.50 KM' },
+      { name: 'Heineken 0.33L', price: '4.00 KM' },
       { name: 'Ožujsko 0.33L', price: '3.00 KM' },
       { name: 'Staropramen 0.33L', price: '3.00 KM' },
       { name: 'Bavaria non-alcoholic 0.33L', price: '3.00 KM' }
@@ -1155,7 +1155,7 @@ export const translations: Record<LanguageCode, TranslationContent> = {
       { name: 'Bier vom Fass 0,5L', price: '3.00 KM' },
       { name: 'Karlovačko 0,33L', price: '3.00 KM' },
       { name: 'Bavaria 0,33L', price: '3.00 KM' },
-      { name: 'Heineken 0,33L', price: '3.50 KM' },
+      { name: 'Heineken 0,33L', price: '4.00 KM' },
       { name: 'Ožujsko 0,33L', price: '3.00 KM' },
       { name: 'Staropramen 0,33L', price: '3.00 KM' },
       { name: 'Bavaria alkoholfrei 0,33L', price: '3.00 KM' }
@@ -1535,7 +1535,7 @@ export const translations: Record<LanguageCode, TranslationContent> = {
       { name: 'بيرة من البرميل 0.5 لتر', price: '3.00 KM' },
       { name: 'كارلوفاتشكو 0.33 لتر', price: '3.00 KM' },
       { name: 'بافاريا 0.33 لتر', price: '3.00 KM' },
-      { name: 'هاينكن 0.33 لتر', price: '3.50 KM' },
+      { name: 'هاينكن 0.33 لتر', price: '4.00 KM' },
       { name: 'أوجويسكو 0.33 لتر', price: '3.00 KM' },
       { name: 'ستاروبرامن 0.33 لتر', price: '3.00 KM' },
       { name: 'بافاريا بدون كحول 0.33 لتر', price: '3.00 KM' }
