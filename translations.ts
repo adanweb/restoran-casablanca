@@ -223,7 +223,7 @@ export const translations: Record<LanguageCode, TranslationContent> = {
     { name: 'Sudžukice (velika porcija)', price: '8 KM' },
 
     { name: 'Teleće krpice + pomfrit (mala porcija)', price: '10 KM' },
-    { name: 'Teleće krpice + pomfrit (velika porcija)', price: '12 KM' },
+    { name: 'Teleće krpice + pomfrit (velika porcija)', price: '14 KM' },
 
     { name: 'Kotletti + pomfrit (mala porcija)', price: '10 KM' },
     { name: 'Kotletti + pomfrit (velika porcija)', price: '14 KM' },
