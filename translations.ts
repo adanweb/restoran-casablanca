@@ -427,7 +427,7 @@ export const translations: Record<LanguageCode, TranslationContent> = {
       { name: 'Graševina 1L', price: '25.00 KM' },
       { name: 'Ždrepčeva krv 1L', price: '25.00 KM' },
       { name: 'Vranac Procorde 0.75L', price: '25.00 KM' },
-      { name: 'Bambus', price: '3.00 KM' },
+      { name: 'Bambus', price: '3.50 KM' },
       { name: 'Gemišt', price: '3.00 KM' }
     ]
   }
@@ -807,7 +807,7 @@ export const translations: Record<LanguageCode, TranslationContent> = {
       { name: 'Graševina 1L', price: '25.00 KM' },
       { name: 'Ždrepčeva Krv 1L', price: '25.00 KM' },
       { name: 'Vranac Pro Corde 0.75L', price: '25.00 KM' },
-      { name: 'Bambus (wine & cola)', price: '3.00 KM' },
+      { name: 'Bambus (wine & cola)', price: '3.50 KM' },
       { name: 'Gemišt (wine & sparkling water)', price: '3.00 KM' }
     ]
   }
@@ -1187,7 +1187,7 @@ export const translations: Record<LanguageCode, TranslationContent> = {
       { name: 'Graševina 1L', price: '25.00 KM' },
       { name: 'Ždrepčeva Krv 1L', price: '25.00 KM' },
       { name: 'Vranac Pro Corde 0,75L', price: '25.00 KM' },
-      { name: 'Bambus (Wein & Cola)', price: '3.00 KM' },
+      { name: 'Bambus (Wein & Cola)', price: '3.50 KM' },
       { name: 'Gemišt (Wein & Sprudelwasser)', price: '3.00 KM' }
     ]
   }
@@ -1567,7 +1567,7 @@ export const translations: Record<LanguageCode, TranslationContent> = {
       { name: 'غراشيفينا 1 لتر', price: '25.00 KM' },
       { name: 'دم الحصان 1 لتر', price: '25.00 KM' },
       { name: 'فرانك برو كوردي 0.75 لتر', price: '25.00 KM' },
-      { name: 'بامبوس (نبيذ وكولا)', price: '3.00 KM' },
+      { name: 'بامبوس (نبيذ وكولا)', price: '3.50 KM' },
       { name: 'جمشت (نبيذ وماء غازي)', price: '3.00 KM' }
     ]
   }
