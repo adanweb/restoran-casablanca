@@ -603,7 +603,7 @@ export const translations: Record<LanguageCode, TranslationContent> = {
     { name: 'Sudžuk Sausages (large portion)', price: '8 KM' },
 
     { name: 'Veal Strips + Fries (small portion)', price: '10 KM' },
-    { name: 'Veal Strips + Fries (large portion)', price: '12 KM' },
+    { name: 'Veal Strips + Fries (large portion)', price: '14 KM' },
 
     { name: 'Chops + Fries (small portion)', price: '10 KM' },
     { name: 'Chops + Fries (large portion)', price: '14 KM' },
@@ -983,7 +983,7 @@ export const translations: Record<LanguageCode, TranslationContent> = {
     { name: 'Sujuk-Würstchen (große Portion)', price: '8 KM' },
 
     { name: 'Kalbfleischstreifen + Pommes (kleine Portion)', price: '10 KM' },
-    { name: 'Kalbfleischstreifen + Pommes (große Portion)', price: '12 KM' },
+    { name: 'Kalbfleischstreifen + Pommes (große Portion)', price: '14 KM' },
 
     { name: 'Koteletts + Pommes (kleine Portion)', price: '10 KM' },
     { name: 'Koteletts + Pommes (große Portion)', price: '14 KM' },
@@ -1363,7 +1363,7 @@ export const translations: Record<LanguageCode, TranslationContent> = {
     { name: 'سجق (حصة كبيرة)', price: '8 KM' },
 
     { name: 'شرائح لحم عجل + بطاطا مقلية (حصة صغيرة)', price: '10 KM' },
-    { name: 'شرائح لحم عجل + بطاطا مقلية (حصة كبيرة)', price: '12 KM' },
+    { name: 'شرائح لحم عجل + بطاطا مقلية (حصة كبيرة)', price: '14 KM' },
 
     { name: 'شرائح لحم + بطاطا مقلية (حصة صغيرة)', price: '10 KM' },
     { name: 'شرائح لحم + بطاطا مقلية (حصة كبيرة)', price: '14 KM' },
