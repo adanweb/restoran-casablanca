@@ -382,9 +382,9 @@ export const translations: Record<LanguageCode, TranslationContent> = {
       { name: 'Cedevita', price: '2.00 KM' },
       { name: 'Cijeđena narandža', price: '4.00 KM' },
       { name: 'Cijeđena limunada', price: '3.00 KM' },
-      { name: 'Gazirani sokovi 0.33L', price: '2.50 KM' },
+      { name: 'Gazirani sokovi 0.33L', price: '3.00 KM' },
       { name: 'Prirodni sokovi 0.25L', price: '3.00 KM' },
-      { name: 'Rodeo 0.33L', price: '2.00 KM' },
+      { name: 'Rodeo 0.33L', price: '3.00 KM' },
       { name: 'Ice Tea 0.25L', price: '2.50 KM' }
     ]
   },
@@ -762,9 +762,9 @@ export const translations: Record<LanguageCode, TranslationContent> = {
       { name: 'Cedevita', price: '2.00 KM' },
       { name: 'Fresh Orange Juice', price: '4.00 KM' },
       { name: 'Fresh Lemonade', price: '3.00 KM' },
-      { name: 'Carbonated Soft Drinks 0.33L', price: '2.50 KM' },
+      { name: 'Carbonated Soft Drinks 0.33L', price: '3.00 KM' },
       { name: 'Natural Juices 0.25L', price: '3.00 KM' },
-      { name: 'Rodeo 0.33L', price: '2.00 KM' },
+      { name: 'Rodeo 0.33L', price: '3.00 KM' },
       { name: 'Ice Tea 0.25L', price: '2.50 KM' }
     ]
   },
@@ -1142,9 +1142,9 @@ export const translations: Record<LanguageCode, TranslationContent> = {
       { name: 'Cedevita', price: '2.00 KM' },
       { name: 'Frisch gepresster Orangensaft', price: '4.00 KM' },
       { name: 'Frisch gepresste Limonade', price: '3.00 KM' },
-      { name: 'Kohlensäurehaltige Softdrinks 0,33L', price: '2.50 KM' },
+      { name: 'Kohlensäurehaltige Softdrinks 0,33L', price: '3.00 KM' },
       { name: 'Natürliche Säfte 0,25L', price: '3.00 KM' },
-      { name: 'Rodeo 0,33L', price: '2.00 KM' },
+      { name: 'Rodeo 0,33L', price: '3.00 KM' },
       { name: 'Eistee 0,25L', price: '2.50 KM' }
     ]
   },
@@ -1522,9 +1522,9 @@ export const translations: Record<LanguageCode, TranslationContent> = {
       { name: 'سيديفيتا', price: '2.00 KM' },
       { name: 'عصير برتقال طبيعي', price: '4.00 KM' },
       { name: 'ليمونادة طبيعية', price: '3.00 KM' },
-      { name: 'مشروبات غازية 0.33 لتر', price: '2.50 KM' },
+      { name: 'مشروبات غازية 0.33 لتر', price: '3.00 KM' },
       { name: 'عصائر طبيعية 0.25 لتر', price: '3.00 KM' },
-      { name: 'روديو 0.33 لتر', price: '2.00 KM' },
+      { name: 'روديو 0.33 لتر', price: '3.00 KM' },
       { name: 'شاي مثلج 0.25 لتر', price: '2.50 KM' }
     ]
   },
