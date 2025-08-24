@@ -421,9 +421,9 @@ export const translations: Record<LanguageCode, TranslationContent> = {
     name: 'Vina',
     isDrinkCategory: true,
     items: [
-      { name: 'Graševina boca 0.20L', price: '7.00 KM' },
-      { name: 'Ždrepčeva krv boca 0.20L', price: '7.00 KM' },
-      { name: 'Vranac Procorde boca 0.20L', price: '9.00 KM' },
+      { name: 'Graševina butelja 0.20L', price: '7.00 KM' },
+      { name: 'Ždrepčeva krv butelja 0.20L', price: '7.00 KM' },
+      { name: 'Vranac Procorde butelja 0.20L', price: '6.00 KM' },
       { name: 'Graševina 1L', price: '25.00 KM' },
       { name: 'Ždrepčeva krv 1L', price: '25.00 KM' },
       { name: 'Vranac Procorde 0.75L', price: '25.00 KM' },
@@ -803,7 +803,7 @@ export const translations: Record<LanguageCode, TranslationContent> = {
     items: [
       { name: 'Graševina (bottle) 0.20L', price: '7.00 KM' },
       { name: 'Ždrepčeva Krv (bottle) 0.20L', price: '7.00 KM' },
-      { name: 'Vranac Pro Corde (bottle) 0.20L', price: '9.00 KM' },
+      { name: 'Vranac Pro Corde (bottle) 0.20L', price: '6.00 KM' },
       { name: 'Graševina 1L', price: '25.00 KM' },
       { name: 'Ždrepčeva Krv 1L', price: '25.00 KM' },
       { name: 'Vranac Pro Corde 0.75L', price: '25.00 KM' },
@@ -1183,7 +1183,7 @@ export const translations: Record<LanguageCode, TranslationContent> = {
     items: [
       { name: 'Graševina Flasche 0,20L', price: '7.00 KM' },
       { name: 'Ždrepčeva Krv Flasche 0,20L', price: '7.00 KM' },
-      { name: 'Vranac Pro Corde Flasche 0,20L', price: '9.00 KM' },
+      { name: 'Vranac Pro Corde Flasche 0,20L', price: '6.00 KM' },
       { name: 'Graševina 1L', price: '25.00 KM' },
       { name: 'Ždrepčeva Krv 1L', price: '25.00 KM' },
       { name: 'Vranac Pro Corde 0,75L', price: '25.00 KM' },
@@ -1563,7 +1563,7 @@ export const translations: Record<LanguageCode, TranslationContent> = {
     items: [
       { name: 'غراشيفينا (زجاجة) 0.20 لتر', price: '7.00 KM' },
       { name: 'دم الحصان (زجاجة) 0.20 لتر', price: '7.00 KM' },
-      { name: 'فرانك برو كوردي (زجاجة) 0.20 لتر', price: '9.00 KM' },
+      { name: 'فرانك برو كوردي (زجاجة) 0.20 لتر', price: '6.00 KM' },
       { name: 'غراشيفينا 1 لتر', price: '25.00 KM' },
       { name: 'دم الحصان 1 لتر', price: '25.00 KM' },
       { name: 'فرانك برو كوردي 0.75 لتر', price: '25.00 KM' },
